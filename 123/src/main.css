@@ -1,0 +1,15 @@
+#demo{
+    color: blue;
+}
+
+#polo{
+    color: brown;
+}
+
+body{
+    background-color: rgb(32, 32, 156);
+}
+
+div, h1{
+    color: aqua;
+}
